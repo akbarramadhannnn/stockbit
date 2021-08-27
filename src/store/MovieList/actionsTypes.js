@@ -1,0 +1,3 @@
+export const CHANGE_DATA = 'CHANGE_DATA';
+export const CHANGE_IS_LOADING = 'CHANGE_IS_LOADING';
+export const CHANGE_HASH_MORE = 'CHANGE_HASH_MORE';
